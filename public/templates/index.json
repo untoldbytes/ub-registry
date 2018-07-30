@@ -1,8 +1,7 @@
 {
     "pwa": {
         "fast-pwa-react": {
-            "name": "fast-pwa-react-master.zip",
-            "url": "https://ub-registry.firebaseapp.com/templates/pwa/fast-pwa-react-master.zip"
+            "url": "https://github.com/untoldbytes/template-pwa/archive/latest.zip"
         }
     },
     "backend": {},
