@@ -1,13 +1,11 @@
 {
-    "web-client": {
+    "pwa": {
         "fast-pwa-react": {
-            "url": "https://ub-registry.firebaseapp.com/templates/web-client/fast-pwa-react-master.zip"
+            "name": "fast-pwa-react-master.zip",
+            "url": "https://ub-registry.firebaseapp.com/templates/pwa/fast-pwa-react-master.zip"
         }
     },
     "backend": {},
-    "windows-client": {},
-    "linux-client": {},
-    "mac-client": {},
-    "android-client": {},
-    "ios-client": {}
+    "desktop": {},
+    "mobile": {}
 }
